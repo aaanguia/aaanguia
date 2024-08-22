@@ -1,6 +1,13 @@
+### 👨🏻‍💻 &nbsp;About Me
+
+💬&nbsp;I am currently an application developer at Colorado Legislative Council. \
+🎓&nbsp;I graduated from Arizona State University with a Software Engineering Degree with a primary in Web and Mobile with a secondary in Graphical Interface Technology (GIT).\
+🌱&nbsp;I am working on my Masters in Software Engineering from Arizona State University.\
+💻&nbsp;In my free time I like to play Old School Runescape!
+
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alex-a-anguiano/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-a-anguiano/)
 
 # 💻 Tech Stack:
 
@@ -15,4 +22,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=aaanguia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- GPRM created the github stats and profile views tracker -->
