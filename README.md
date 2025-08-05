@@ -5,6 +5,8 @@
 🌱&nbsp;I am working on my Masters in Software Engineering from Arizona State University.\
 💻&nbsp;In my free time I like to play Old School Runescape!
 
+![](https://komarev.com/ghpvc/?username=aaanguia)
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-a-anguiano/)
